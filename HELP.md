@@ -12,5 +12,5 @@ Pre request for this automation suite to run
 Java 1.8 JDK install
 Maven install
 
-mvn "-Dspring.profiles.active=prd" test
+Run command: mvn "-Dspring.profiles.active=qa" test
 
