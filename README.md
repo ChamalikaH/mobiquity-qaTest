@@ -2,7 +2,7 @@
 
 This is a test project prepared for the coding challenge assignment for the “senior QA engineer” position at Mobiquity. 
 
-This includes the solution for the task given by Mobiquity which is a very simple API test case.
+This includes the solution for the task given by Mobiquity which is a API test case.
 
 ### 1.	Built With
 
