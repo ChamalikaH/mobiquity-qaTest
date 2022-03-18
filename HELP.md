@@ -9,8 +9,8 @@ For further reference, please consider the following sections:
 
 Pre request for this automation suite to run
 
-Java 1.8 JDK install
-Maven install
+Install Java 1.8 JDK or later version
+Install Maven 3.8.x
 
 Run command: mvn "-Dspring.profiles.active=qa" test
 
